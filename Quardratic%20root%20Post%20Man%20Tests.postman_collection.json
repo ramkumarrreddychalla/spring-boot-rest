@@ -1,0 +1,34 @@
+{
+	"id": "c7cfd9ec-edb6-d11e-71c0-a6a8a9124489",
+	"name": "Quardratic root Post Man Tests",
+	"description": "",
+	"order": [
+		"89ee21fc-6961-1350-63ea-b307d9cfa9e9"
+	],
+	"folders": [],
+	"timestamp": 1479252909641,
+	"owner": "298689",
+	"public": false,
+	"requests": [
+		{
+			"id": "89ee21fc-6961-1350-63ea-b307d9cfa9e9",
+			"headers": "Accept: application/json\nContent-Type: application/json\n",
+			"url": "http://localhost:8080/ProfileService/profile/",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1478670333270,
+			"name": "Quardratic roots post coefficients and searchrange ",
+			"description": "",
+			"collectionId": "c7cfd9ec-edb6-d11e-71c0-a6a8a9124489",
+			"responses": [],
+			"rawModeData": "{\r\n  \"id\": \"1\",\r\n  \"username\": \"57990663\",\r\n  \"address\":\"address1 & 2\",\r\n  \"email\":\"xyz@abc.com\"\r\n}"
+		}
+	]
+}

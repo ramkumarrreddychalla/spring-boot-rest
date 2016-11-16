@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Example Spring Boot REST Service
 ================================
 
@@ -15,3 +16,6 @@ Quick start
 3. Point your browser to [http://localhost:8080](http://localhost:8080)
 4. `curl -X POST -d '{ "id": "test_id", "password": "test_password" }' http://localhost:8080/user`
 5. Refresh the page
+=======
+-boot-rest
+>>>>>>> 73be3125c83fdc2b6567a3c47493d887ea3402a2
